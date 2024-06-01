@@ -1,0 +1,13 @@
+file
+ico
+layout
+logging
+network
+peer
+transfer
+windropx86
+worker
+go.*
+go.mod
+main.go
+kor.ttf
