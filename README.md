@@ -26,7 +26,7 @@
 
 ### 간단한 .exe파일만 실행하시면 됩니다.
 
-<a href="https://github.com/kuentra-official/windrops/releases/download/v.0.0.1/windrop.exe" download="filename">windrop.exe 다운로드</a>
+<a href="https://github.com/kuentra-official/windrop/releases/download/v1/windrop.exe" download="filename">windrop.exe 다운로드</a>
 
 ### 먼저 동일한 네트워크안에 있는 컴퓨터만이 windrop의 대상이 됩니다.
 
